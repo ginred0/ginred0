@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Jiashi Gao"
   pronouns         : "she/her"  
-  bio              : "Jiashi Gao is a fourth-year Ph.D. student with a research focus on fairness in AI algorithms and challenges in AI-human collaboration."
-  location         : "Shenzhen, China"
-  employer         : "Southern University of Science and Technology (SUSTech)"
+  bio              : "Ph.D. student, Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech)."
+  location         : # "Shenzhen, China"
+  employer         : # "Southern University of Science and Technology (SUSTech)"
   uri              : # URL
   email            : "gaojs2021@mail.sustech.edu.cn" 
 
