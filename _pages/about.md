@@ -4,8 +4,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-About Me
 ======
 Welcome to my homepage!
 
