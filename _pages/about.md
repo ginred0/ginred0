@@ -1,10 +1,12 @@
 ---
 permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-======
+
 Welcome to my homepage!
 
 I am a fourth-year Ph.D. student at the Southern University of Science and Technology (SUSTech), supervised by Prof. Xuetao Wei since 2021. My research focuses on the societal impact of AI, particularly on promoting fairness for human participants in distributed model training and human-AI collaboration.
