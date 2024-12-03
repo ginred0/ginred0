@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,7 +15,7 @@ Previously, I worked as a Research Assistant (2020–2021) under the supervision
 
 I earned my M.E. degree in the School of Artificial Intelligence and Automation from Huazhong University of Science and Technology (HUST) in 2019 and my B.E. degree in Measurement and Control Technology and Instrumentation from the University of Electronic Science and Technology of China (UESTC).
 
-Research interest
+Research interests
 ======
 **Fairness in Machine Learning**
 - Algorithmic Fairness
