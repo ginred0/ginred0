@@ -13,7 +13,7 @@ I am a fourth-year Ph.D. student at the Southern University of Science and Techn
 
 Previously, I worked as a Research Assistant (2020–2021) under the supervision of Prof. James J.Q. Yu at SUSTech. Before joining SUSTech, I was a data engineer at the Von Neumann Data Studio, Huawei Technologies Co., Ltd, from 2019 to 2020.
 
-I earned my M.E. degree in the School of Artificial Intelligence and Automation from Huazhong University of Science and Technology (HUST) in 2019 and my B.E. degree in Measurement and Control Technology and Instrumentation from the University of Electronic Science and Technology of China (UESTC).
+I  received  my M.E. degree in the School of Artificial Intelligence and Automation from Huazhong University of Science and Technology (HUST) in 2019 and my B.E. degree in Measurement and Control Technology and Instrumentation from the University of Electronic Science and Technology of China (UESTC).
 
 Research interests
 ======
