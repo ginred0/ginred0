@@ -17,11 +17,10 @@ I  received  my M.E. degree in the School of Artificial Intelligence and Automat
 
 Research Interests
 ======
-**Fairness in Machine Learning**
-- Algorithmic Fairness
-- Game Theory for AI's Societal Challenge
-- Societal Challenge in Human-AI Collaboration
+My research focuses on advancing artificial intelligence algorithms to better align with societal needs, including promoting fairness, reducing stereotypes, and fostering inclusivity. Key areas of interest include:
+- Collaborative model training
+- Human-AI collaboration
+- Large language models (LLMs)
 
-As large language models (LLMs) provide richer interactions with humans and access to more diverse information sources, they enable decision-making support that is increasingly expert-like and widely applicable. My research also focuses on exploring human-LLM interaction mechanisms to better meet broader societal requirements.
 
 
